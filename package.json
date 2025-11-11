@@ -5,8 +5,10 @@
 	"name": "fcc-learn-npm-package-json",
 	"license": "MIT",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "1.1.0 "
 	},
+	"package": "1.2.13",
+	
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
